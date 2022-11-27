@@ -1,0 +1,55 @@
+[
+    {
+      "authorName":"Elon Musk",
+      "authorImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+      "text":"The Tactics of Mistake",
+      "handel":"@elonmusk",
+      "likes":"56.5k",
+      "retweets":"100k",
+      "comments":"5k"
+    
+    
+    },
+    
+    {
+        "authorName":"Elon Musk",
+        "authorImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+        "text":"Holding off relaunch of Blue Verified until there is high confidence of stopping impersonation. Will probably use different color check for organizations than individuals.",
+        "handel":"@elonmusk",
+        "likes":"60.5k",
+        "retweets":"80k",
+        "comments":"3k"
+      
+      
+      },
+      {
+        "authorName":"Elon musk",
+        "authorImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+        "text":"witter added 1.6M daily active users this past week, another all-time high",
+        "handel":"@elonmusk",
+        "likes":"203k",
+        "retweets":"20.5k",
+        "comments":"16k"
+      
+      
+      },
+      {
+        "authorName":"Elon Musk",
+        "authorImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+        "text":"Experience: what you get when you didnt get what you wanted - Igor",
+        "handel":"@elonmusk",
+        "likes":"60.5k",
+        "retweets":"80k",
+        "comments":"3k"
+      },
+    
+      {
+        "authorName":"Elon Musk",
+        "authorImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+        "text":"Fanaticism is always a function of repressed doubt – Dune",
+        "handel":"@elonmusk",
+        "likes":"286k",
+        "retweets":"23k",
+        "comments":"11k"
+      }
+    ]

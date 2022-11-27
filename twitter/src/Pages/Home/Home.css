@@ -1,0 +1,18 @@
+
+.leftcoantiner{
+    width: 20%;
+}
+.rightconatiner{
+    width: 25% !important;
+}
+.centerconatiner{
+    width: 55%;
+    border-left: 1px solid lightcyan;
+    border-right: 1px solid lightcyan;
+}
+
+.homecomponent{
+    display: flex;
+    height: 100%;
+   
+}

@@ -1,0 +1,62 @@
+
+.searchbar{
+    display: flex;
+    align-items: center;
+    
+}
+
+.searchbox{
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 10px;
+    width: 90%;
+}
+
+.searchbox input{
+    width: 90%;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: none;
+    /* height: 30px; */
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none !important;
+    padding-left: 0% !important;
+}
+
+ul a{
+    color: darkgray;
+    
+}
+
+.banner{
+    height: 320px;
+    border: 1px solid blue;
+    background-image: url("https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/04/full/1559636417-8358.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content:end;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.banner-small{
+    font-size: smaller;
+    color: white;
+}
+
+.banner-large{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+
+.sticky{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}

@@ -1,0 +1,55 @@
+[
+    {
+      "authorName":"Elon Musk",
+      "authorImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+      "text":"FTX meltdown/ransack being tracked in real-time on Twitter",
+      "handel":"@elonmusk",
+      "likes":"56.5k",
+      "retweets":"100k",
+      "comments":"5k"
+    
+    
+    },
+    
+    {
+        "authorName":"Bill Gates",
+        "authorImage":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+        "text":"While the last steps are proving to be the toughest I am optimistic we will eradicate polio. I recently visited Leuven Rega Institute where they are testing preventative medicine an important step toward a polio-free world.",
+        "handel":"@billgates",
+        "likes":"60.5k",
+        "retweets":"80k",
+        "comments":"3k"
+      
+      
+      },
+      {
+        "authorName":"Elon musk",
+        "authorImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+        "text":"Rolling out soon, Twitter will enable organizations to identify which other Twitter accounts are actually associated with them",
+        "handel":"@elonmusk",
+        "likes":"203k",
+        "retweets":"20.5k",
+        "comments":"16k"
+      
+      
+      },
+      {
+        "authorName":"Bill Gates",
+        "authorImage":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+        "text":"The climate crisis is already devastating communities. More funding is necessary to ensure agricultural and technological innovations are widely available to the most vulnerable, helping them adapt to climate change, save lives, and increase economic opportunity.",
+        "handel":"@billgates",
+        "likes":"60.5k",
+        "retweets":"80k",
+        "comments":"3k"
+      },
+    
+      {
+        "authorName":"Virat Kholi",
+        "authorImage":"https://pbs.twimg.com/profile_images/1562753500726976514/EPSUNyR3_400x400.jpg",
+        "text":"We leave Australian shores short of achieving our dream and with disappointment in our hearts but we can take back a lot of memorable moments as a group and aim to get better from here on.",
+        "handel":"@viratkholi",
+        "likes":"286k",
+        "retweets":"23k",
+        "comments":"11k"
+      }
+    ]

@@ -1,0 +1,124 @@
+
+.profile-header{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 1px lightgray;
+}
+
+.bi{
+    height: 28px;
+    width: 30px;
+    margin: 5px;
+    padding: 2px;
+
+}
+
+.header-center{
+    display: flex;
+    flex-direction: column;
+    margin-right: 77%;
+    margin-top: 5px;
+    
+}
+.name-account{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ gap: 7px;
+ font-weight: bolder !important;
+    font-size: 19px;
+}
+
+.likes{
+    font-size: small;
+}
+
+
+.follow-button{
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+
+.cover{
+    background-image: url("https://pbs.twimg.com/profile_banners/44196397/1576183471/1500x500");
+    height: 180px;
+    background-size: cover;
+    position: relative;
+    cursor: pointer;
+}
+
+.profileimage{
+    height: 160px !important;
+    width: 160px !important;
+    border: solid 2px white;
+    border-radius: 80px !important;
+    position: absolute;
+    left: 24px;
+    bottom: -80px;
+}
+
+.follow-btn-conatiner{
+    padding: 24px;
+    display: flex;
+    position: sticky;
+    top: -2%;
+}
+
+.follow-btn {
+    color: white;
+    background-color: black;
+    height: 38px;
+    border-radius: 30px !important;
+    padding: 0px 20px 0px 20px;
+    font-size: 20px;
+}
+
+.profilecenter{
+    margin: 90px 0px 20px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    font-size: small;
+    font-weight: lighter;
+    align-items: flex-start;
+}
+
+.date{
+      display: flex;
+      font-weight: lighter;
+      flex-direction: column;
+      font-size: 15px;
+      margin-bottom: 50px !important;
+}
+.follower{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none !important;
+    padding-left: 0% !important;
+}
+
+ul a{
+    color: darkgray;
+    font-weight: normal;
+}
+
+.stickyprofile{
+    position: sticky;
+    top: 0%;
+    background-color: lightgray;
+    cursor: pointer;
+}

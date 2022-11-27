@@ -1,0 +1,19 @@
+
+
+.header_small{
+    font-size: small !important;
+}
+
+.text{
+    font-weight: bold;
+    font-size: large;
+}
+
+p{
+    margin-bottom: 2px !important;
+}
+
+.treandingmain{
+    padding: 12px;
+    margin: 6px 0px;
+}

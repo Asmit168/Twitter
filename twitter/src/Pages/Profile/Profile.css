@@ -1,0 +1,46 @@
+
+.leftcoantiner{
+    width: 20%;
+}
+.rightconatiner{
+    width: 25% !important;
+}
+.centerconatiner{
+    width: 55%;
+    border-left: 1px solid lightcyan;
+    border-right: 1px solid lightcyan;
+}
+
+.homecomponent{
+    display: flex;
+    height: 100%;
+   
+}
+.searchbarlogin{
+    border: 1px solid lightgrey;
+    height: 50px;
+    background-color: rgb(248, 245, 245);
+    width: 100%;
+    
+}
+.bisearch{
+    height: 20px !important;
+    width: 20px !important;
+    margin-left: 10px;
+}
+input{
+    margin-left: 14px !important;
+    border: none transparent;
+    margin-top: 2px !important;
+    height: 40px;
+    border-radius: 20px;
+    outline: none;
+    text-align: center;
+    width: 70%;
+}
+
+.stickyprofile{
+    position: sticky;
+    top: 0%;
+    background-color: white;
+}
